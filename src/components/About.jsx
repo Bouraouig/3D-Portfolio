@@ -42,13 +42,16 @@ const About = () => {
         className="
       mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-        praesentium, aut incidunt aliquid vitae odio sapiente rerum adipisci
-        exercitationem inventore nobis quaerat fuga? Excepturi eveniet nemo
-        voluptates repellendus soluta mollitia! Lorem ipsum dolor sit amet
-        consectetur, adipisicing elit. Ut vel eligendi officia libero possimus
-        nisi eveniet dolore et rem laborum assumenda deserunt, cumque nulla quos
-        nobis accusamus veniam similique inventore?
+        Hello, My name is Bouraoui Gnaba. I am 28 years old. As a Front-End
+        Developer with one year of experience, I have honed my skills in
+        creating responsive and visually appealing web interfaces. Proficient in
+        HTML, CSS, and JavaScript, I have successfully contributed to various
+        projects, collaborating closely with design and back-end teams to
+        deliver seamless user experiences. My experience with frameworks like
+        React and Angular has enabled me to build dynamic and efficient web
+        applications. With a keen eye for detail and a passion for coding, I am
+        committed to continuously learning and applying new technologies to
+        enhance my development capabilities.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => {
